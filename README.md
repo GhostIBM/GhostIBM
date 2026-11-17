@@ -7,7 +7,9 @@ An IBMer exploring software development, DevOps, and cloud technologies.
 - Git & GitHub
 - Azure DevOps
 - CI/CD
-- C# & .NET
+- C#
+- Microsoft Dynamics 365
+- PowerApps
 - Cloud Technologies
 
 ## About This Profile
